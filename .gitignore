@@ -1,0 +1,38 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Dependency directories
+node_modules
+
+# Build outputs
+dist
+dist-ssr
+
+# Local environment files (keep Firebase keys safe)
+.env
+.env.local
+.env.*.local
+
+# Smart IDE / Editor configs
+.si.json
+metadata.json
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+
+# System / IDE files
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Misc
+*.local
